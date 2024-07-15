@@ -1,8 +1,7 @@
 ## Olá! Eu sou o Caio Souza Diniz
 
-- 🔭 EStudando Analise e Desenvolvimento de Sistemas
+- 🔭 Estudando Analise e Desenvolvimento de Sistemas
 - 🌱 Estudando Javascript/HTML/CSS
-- 😄 Pronouns: ele/dele
 
 <div style="display: inline_block"><br>
   <img align="center" alt="CaioSouzaDiniz" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
