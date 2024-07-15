@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Caio Souza Diniz
 
-- 🔭 
-- 🌱 Estudando Javascript
+- 🔭 EStudando Analise e Desenvolvimento de Sistemas
+- 🌱 Estudando Javascript/HTML/CSS
 - 😄 Pronouns: ele/dele
 
 <div style="display: inline_block"><br>
