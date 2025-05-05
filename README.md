@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Caio Souza Diniz 👨🏽‍💻
 
 - 🔭 Estudando Analise e Desenvolvimento de Sistemas
-- 🌱 Estudando Javascript/HTML/CSS
+- 🌱 Estudando Javascript/HTML/CSS/JAVA/PYTHON
 
 <div style="display: inline_block"><br>
   <img align="center" alt="CaioSouzaDiniz" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
